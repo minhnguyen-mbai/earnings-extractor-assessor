@@ -1,1 +1,315 @@
-[]
+[
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000066",
+    "release_date": "2026-07-22",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 119796,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 96,428 | $ | 119,796"
+      },
+      "operating_income": {
+        "value": 40770,
+        "unit": "USD millions",
+        "quote": "Income from operations | 31,271 | 40,770"
+      },
+      "net_income": {
+        "value": 112193,
+        "unit": "USD millions",
+        "quote": "Net income | 28,196 | 112,193"
+      },
+      "diluted_eps": {
+        "value": 9.11,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.31 | $ | 9.11"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says revenues grew 24% year on year and Google Cloud revenue growth accelerated to 82%, driven by AI demand.",
+        "quote": "Q2 was an amazing quarter, with Alphabet revenues growing 24% year-over-year and Google Cloud revenues accelerating to 82% growth, driven by demand for AI infrastructure and AI solutions."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Operating income rose 30% and the operating margin widened by 2 percentage points to 34%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin expanded by 2 percentage points to 34%."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Other income included a net gain of $98.0 billion, mainly unrealised gains on equity securities.",
+        "quote": "Other income reflected a net gain of $98.0 billion, primarily the result of net unrealized gains on our equity securities."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls Q2 an amazing quarter and describes the results as outstanding, mentioning no headwind."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000066.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/0001652044-26-000066-index.htm",
+    "saved_at": "2026-10-25T21:51:33+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000024",
+    "release_date": "2026-07-30",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 200606,
+        "unit": "USD millions",
+        "quote": "Total net sales | 167,702 | 200,606"
+      },
+      "operating_income": {
+        "value": 27461,
+        "unit": "USD millions",
+        "quote": "Operating income | 19,171 | 27,461"
+      },
+      "net_income": {
+        "value": 62647,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 18,164 | $ | 62,647"
+      },
+      "diluted_eps": {
+        "value": 5.75,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.68 | $ | 5.75"
+      }
+    },
+    "guidance": {
+      "text": "Amazon expects third-quarter 2026 net sales of $197.0 billion to $202.0 billion, growth of 9% to 12% on the third quarter of 2025.",
+      "quote": "Net sales are expected to be between $197.0 billion and $202.0 billion, or to grow between 9% and 12% compared with third quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says AWS grew 36.7% year on year in Q2, its fastest growth in 18 quarters.",
+        "quote": "AWS is booming, growing 36.7% year-over-year in Q2—our fastest growth in 18 quarters—and our AI and Chips businesses each eclipsed run rates of more than $25 billion"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says advertising grew 26% year on year.",
+        "quote": "And, Advertising had another strong quarter with 26% year-over-year growth."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Net income includes $53.4 billion of non-operating pre-tax other income, mainly from the investments in Anthropic.",
+        "quote": "Second quarter 2026 net income includes non-operating pre-tax other income of $53.4 billion, primarily from our investments in Anthropic."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "Third-quarter 2026 operating income is expected to be $22.5 billion to $26.5 billion.",
+        "quote": "Operating income is expected to be between $22.5 billion and $26.5 billion, compared with $17.4 billion in third quarter 2025."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says AWS is booming and that there is a lot to be excited about, with more coming for customers."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000024.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/amzn-20260630xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/0001018724-26-000024-index.htm",
+    "saved_at": "2026-10-25T21:51:33+08:00"
+  },
+  {
+    "cik": "1326801",
+    "company": "Meta Platforms",
+    "accession": "0001628280-26-066700",
+    "release_date": "2026-10-21",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 64601,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 64,601"
+      },
+      "operating_income": {
+        "value": 12988,
+        "unit": "USD millions",
+        "quote": "Income from operations | 12,988"
+      },
+      "net_income": {
+        "value": 9860,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 9,860"
+      },
+      "diluted_eps": {
+        "value": 3.83,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 3.83"
+      }
+    },
+    "guidance": {
+      "text": "Meta expects fourth-quarter 2026 total revenue of $73 billion to $76 billion.",
+      "quote": "We expect fourth quarter 2026 total revenue to be in the range of $73-76 billion."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "costs",
+        "claim": "Third-quarter costs include a $9.89 billion charge for the agreement with US state attorneys general.",
+        "quote": "Third quarter 2026 costs and expenses includes a $9.89 billion charge related to this agreement."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CFO raises the full-year 2026 total expense outlook to $175 billion to $179 billion to include the legal charge.",
+        "quote": "We now expect full year 2026 total expenses to be in the range of $175-179 billion."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Capital expenditure for 2026 is expected at $135 billion to $145 billion, a narrower range than before.",
+        "quote": "We anticipate 2026 capital expenditures, including principal payments on finance leases, to be in the range of $135-145 billion, narrowed from our prior outlook of $130-145 billion."
+      },
+      {
+        "id": "M4",
+        "topic": "revenue",
+        "claim": "The CEO says the investments are paying off and the core business is strong.",
+        "quote": "Our investments are paying off, the core business is strong, and we're seeing velocity across the board."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO is upbeat, but the CFO raises the expense outlook for a large legal charge and flags active legal and regulatory matters."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1326801-0001628280-26-066700.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/0001628280-26-066700-index.htm",
+    "saved_at": "2026-10-25T21:51:33+08:00"
+  },
+  {
+    "cik": "1702750",
+    "company": "BYLINE BANCORP, INC.",
+    "accession": "0001193125-26-428935",
+    "release_date": "2026-10-22",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 41.786,
+        "unit": "USD millions",
+        "quote": "NET INCOME | $ | 41,786"
+      },
+      "diluted_eps": {
+        "value": 0.94,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per common share | $ | 0.94"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says the bank delivered record earnings and returned more than $20 million of capital to stockholders.",
+        "quote": "We delivered record earnings and returned more than $20 million of capital to stockholders through share repurchases and a 16.7% increase in our common dividend to $0.14 per share during the third quarter."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The President says net interest income was a record $103.7 million and the net interest margin widened five basis points to 4.33%.",
+        "quote": "The third quarter produced record net interest income of $103.7 million and expanded our net interest margin by five basis points to 4.33% in a quarter when funding costs rose across the industry."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The President says deposits grew at an 8.5% annualised rate while the cost of deposits rose three basis points.",
+        "quote": "Deposits grew at an 8.5% annualized rate while our cost of deposits rose three basis points."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "Management speaks of record earnings and record net interest income, and of a strong capital position."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1702750-0001193125-26-428935.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1702750/000119312526428935/by-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1702750/000119312526428935/0001193125-26-428935-index.htm",
+    "saved_at": "2026-10-25T21:51:33+08:00"
+  },
+  {
+    "cik": "9092",
+    "company": "BADGER METER INC",
+    "accession": "0001193125-26-428396",
+    "release_date": "2026-10-22",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 235.938,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 235,938"
+      },
+      "operating_income": {
+        "value": 47.742,
+        "unit": "USD millions",
+        "quote": "Operating earnings | 47,742"
+      },
+      "net_income": {
+        "value": 35.903,
+        "unit": "USD millions",
+        "quote": "Net earnings | $ | 35,903"
+      },
+      "diluted_eps": {
+        "value": 1.24,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 1.24"
+      }
+    },
+    "guidance": {
+      "text": "Badger Meter expects Base revenue to improve in the fourth quarter of 2026, both on the third quarter and on a year earlier.",
+      "quote": "As we enter the final quarter of 2026, we continue to anticipate both sequential and year-over-year Base revenue improvement, inclusive of the fewer operating days typical for the fourth fiscal quarter"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says the quarter delivered continued sequential improvement in sales and operating profit.",
+        "quote": "We were pleased with our third quarter financial results delivering continued sequential sales and operating profit improvement"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Operating earnings rose 4% to $47.7 million and the operating margin widened to 20.2% from 19.6%.",
+        "quote": "Operating earnings increased 4% year-over-year to $47.7 million, with operating profit margins of 20.2% versus 19.6% in the prior year comparable quarter."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The CEO says the company is focused on cost management and on material cost pressures from the electronics supply chain.",
+        "quote": "We remain steadfastly focused on cost management actions to mitigate the uneven 2026 sales cadence, while effectively addressing ongoing material cost pressures related to broad electronics supply chain dynamics."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO is pleased with the quarter and expects growth, but names an uneven 2026 sales cadence and material cost pressures."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/9092-0001193125-26-428396.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/9092/000119312526428396/bmi-ex99_pressrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/9092/000119312526428396/0001193125-26-428396-index.htm",
+    "saved_at": "2026-10-25T21:51:33+08:00"
+  }
+]

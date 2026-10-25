@@ -1,0 +1,511 @@
+Company: BYLINE BANCORP, INC. (CIK 1702750)
+Accession: 0001193125-26-428935
+Results released: 2026-10-22
+Press release: https://www.sec.gov/Archives/edgar/data/1702750/000119312526428935/by-ex99_1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1702750/000119312526428935/0001193125-26-428935-index.htm
+Saved: 2026-10-25T21:51:33+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 by-ex99_1.htm EX-99.1
+Exhibit 99.1
+Byline Bancorp, Inc. Reports Third Quarter 2026 Financial Results
+Net income of $41.8 million, $0.94 diluted earnings per share
+Chicago, IL, October 22, 2026 – Byline Bancorp, Inc. (NYSE: BY), today reported:
+At or for the quarter | Third Quarter Highlights (compared to 2Q26 unless specified)
+3Q26 | 2Q26 | 3Q25
+Financial Results ($ in thousands) | • Delivered record total revenue of $121.0 million,
+Net interest income (NII) | $ | 103,676 | $ | 100,836 | $ | 99,890 | up 2.8% and 4.6% Y/Y
+Non-interest income | 17,332 | 16,876 | 15,845
+Total revenue(1) | 121,008 | 117,712 | 115,735 | • EPS of $0.94, up 4.4% and 14.6% Y/Y
+Non-interest expense (NIE) | 59,800 | 56,479 | 60,518
+Pre-tax pre-provision net income (PTPP)(1) | 61,208 | 61,233 | 55,217 | • ROAA of 1.67%; ROTCE(1) of 14.78%
+Provision for credit losses | 6,748 | 7,162 | 5,298
+Provision for income taxes | 12,674 | 13,890 | 12,719 | • PTPP ROAA of 2.45%(1), marking the 16th
+Net income | $ | 41,786 | $ | 40,181 | $ | 37,200 | consecutive quarter above 2.00%
+Per Share | • TBVPS(1) of $24.14, down 1.4% and up 6.9% Y/Y
+Diluted earnings per share (EPS) | $ | 0.94 | $ | 0.90 | $ | 0.82
+Dividends declared per common share | 0.14 | 0.12 | 0.10 | Income Statement
+Book value per common share | 28.55 | 28.86 | 26.99 | • Record NII of $103.7 million, up 2.8%
+Tangible book value per common share (TBVPS)(1) | 24.14 | 24.48 | 22.58
+• NIM expanded five bps to 4.33%
+Balance Sheet & Credit Quality ($ in thousands)
+Total deposits | $ | 8,039,110 | $ | 7,870,762 | $ | 7,828,197 | • Non-interest income of $17.3 million, up 2.7%
+Total loans and leases | 7,490,395 | 7,563,929 | 7,461,321
+Net charge-offs | 5,846 | 4,446 | 7,107 | • Effective tax rate of 23.3%, reflecting impact
+Allowance for credit losses (ACL) | 113,040 | 111,861 | 105,717 | of tax credits
+ACL to total loans and leases held for investment | 1.51% | 1.48% | 1.42%
+• Efficiency ratio(1) of 48.40%
+Select Ratios (annualized where applicable)
+Efficiency ratio(1) | 48.40% | 46.93% | 51.00% | Balance Sheet
+Return on average assets (ROAA) | 1.67% | 1.63% | 1.52% | • Total deposit growth of $168.3 million, or 8.5%(2)
+Return on average stockholders' equity | 12.34% | 12.05% | 12.21%
+Return on average tangible common equity (ROTCE)(1) | 14.78% | 14.47% | 15.11% | • Reduced wholesale funding by $268.7 million
+Net interest margin (NIM) | 4.33% | 4.28% | 4.27%
+Common equity to total assets | 12.88% | 13.13% | 12.61% | • Lowered loan/deposit ratio to 93.22%
+Tangible common equity to tangible assets(1) | 11.12% | 11.36% | 10.78%
+Common equity tier 1 | 13.29% | 12.92% | 12.15% | • Total payout ratio(3) of 63.2%
+CEO/President Commentary
+Roberto R. Herencia, Executive Chairman and CEO of Byline Bancorp, commented, "We delivered record earnings and returned more than $20 million of capital to stockholders through share repurchases and a 16.7% increase in our common dividend to $0.14 per share during the third quarter. We also continued to advance our strategic priorities with the recently announced acquisition of Illinois State Bancorp, Inc., parent of First Nations Bank and The Bank of Bourbonnais. The transaction expands our market presence, strengthens our core deposit base, and adds talented bankers and long-standing customer relationships." Alberto J. Paracchini, President of Byline Bancorp, added, "The third quarter produced record net interest income of $103.7 million and expanded our net interest margin by five basis points to 4.33% in a quarter when funding costs rose across the industry. Pre-tax, pre-provision return on average assets was 2.45%. Deposits grew at an 8.5% annualized rate while our cost of deposits rose three basis points. We believe our strong capital position provides the flexibility to support growth, capitalize on market opportunities, and create long-term value as we pursue our vision of becoming the preeminent commercial bank in Chicago."
+(1)
+Represents non-GAAP financial measures. See “Reconciliation of non-GAAP Financial Measures” for a reconciliation to the most directly comparable GAAP financial measure.
+(2)
+Annualized.
+(3)
+Total payout ratio is inclusive of common dividends and common share repurchases divided by net income.
+Byline Bancorp, Inc.
+Page 2 of 13
+Board Declares Cash Dividend of $0.14 per Share
+On October 6, 2026, the Company's Board of Directors declared a cash dividend of $0.14 per share. The dividend will be paid on November 17, 2026, to stockholders of record of the Company's common stock as of November 3, 2026.
+STATEMENTS OF OPERATIONS HIGHLIGHTS
+Net Interest Income
+Net interest income for the third quarter of 2026 was $103.7 million, an increase of $2.8 million, or 2.8%, from the second quarter of 2026. The increase in net interest income was primarily attributable to higher interest income from investment securities, lower interest expense on other borrowings resulting from reduced wholesale funding levels, and the additional day in the quarter, partially offset by higher interest expense on deposits.
+Net interest margin for the third quarter of 2026 was 4.33%, an increase of five basis points compared to the second quarter of 2026. The increase was primarily attributable to higher yields on investment securities and lower Federal Home Loan Bank advances, partially offset by higher rates paid on deposits. Net loan accretion income contributed six basis points to the net interest margin for the quarter, compared to 11 basis points in the prior quarter.
+The average cost of total deposits was 1.95% for the third quarter of 2026, an increase of three basis points compared to the second quarter of 2026, primarily due to higher rates paid on interest-bearing accounts.
+Provision for Credit Losses
+The provision for credit losses was $6.7 million for the third quarter of 2026, a decrease of $414,000, or 5.8%, compared to $7.2 million for the second quarter of 2026. The decrease was primarily attributable to improvements in collateral-related qualitative factors, reflecting favorable trends in certain industry indicators, as well as lower period-end loan and lease balances held for investment. These factors were partially offset by increased reserves associated with certain individually evaluated loans.
+Non-interest Income
+Non-interest income for the third quarter of 2026 was $17.3 million, an increase of $456,000, or 2.7%, compared to $16.9 million for the second quarter of 2026. The increase was primarily driven by higher bank-owned life insurance income, customer swap activity, and wealth management and trust income, partially offset by lower loan servicing asset revaluation and net gains on sales of loans, as well as less favorable equity securities fair value changes.
+Net gains on sales of loans totaled $5.8 million for the quarter, a decrease of $293,000, or 4.8%, compared to the prior quarter. During the third quarter of 2026, we sold $70.8 million of U.S. government guaranteed loans compared to $78.1 million during the second quarter of 2026.
+Non-interest Expense
+Non-interest expense for the third quarter of 2026 was $59.8 million, an increase of $3.3 million, or 5.9%, compared to $56.5 million for the second quarter of 2026. The increase in non-interest expense was mainly due to a $3.4 million increase in salaries and employee benefits and higher other non-interest expense and legal, audit and other professional fees. These increases were partially offset by lower advertising and promotions expense and lower impairment charges on assets held for sale.
+Our efficiency ratio was 48.40%(1) compared to 46.93%(1) for the second quarter of 2026, an increase of 147 basis points. The change in the efficiency ratio was mainly driven by higher non-interest expenses.
+Income Taxes
+We recorded income tax expense of $12.7 million during the third quarter of 2026, compared to $13.9 million during the second quarter of 2026. The effective tax rates were 23.3% and 25.7% for the third quarter of 2026 and second quarter of 2026, respectively. The decrease was primarily driven by the purchase of renewable energy tax credits during the third quarter.
+(1) Represents non-GAAP financial measures. See “Reconciliation of non-GAAP Financial Measures” for a reconciliation of our non-GAAP measures to the most directly comparable GAAP financial measure.
+Byline Bancorp, Inc.
+Page 3 of 13
+STATEMENTS OF FINANCIAL CONDITION HIGHLIGHTS
+Assets
+Total assets were $9.9 billion as of September 30, 2026, a decrease of $33.7 million, or 0.3%, compared to June 30, 2026. The decrease was primarily driven by an $80.9 million decrease in loans and leases held for investment, reflecting loan payoffs and sales that exceeded portfolio growth during the quarter, partially offset by increases in cash and cash equivalents, securities available-for-sale and loans held for sale.
+Allowance for Credit Losses
+The ACL was $113.0 million as of September 30, 2026, an increase of $1.2 million, or 1.1%, from June 30, 2026. The increase was driven by provision for credit losses on individually assessed loans and net charge-offs on loans and leases. The ACL as a percentage of total loans and leases held for investment increased by three basis points to 1.51%, compared to 1.48% at June 30, 2026.
+Net loan and lease charge-offs during the third quarter of 2026 were $5.8 million, or 0.31% of average loans and leases on an annualized basis, an increase of $1.4 million or seven basis points, compared to the second quarter of 2026.
+Asset Quality
+Non-performing assets were $87.9 million, or 0.89% of total assets, as of September 30, 2026, an increase of $15.6 million, or 21.6%, from June 30, 2026. The increase was primarily attributable to an increase in non-accrual loans and leases. The government guaranteed portion of non-performing loans included in non-performing assets was $9.7 million at September 30, 2026, compared to $8.1 million at June 30, 2026, an increase of $1.5 million, or 18.7%.
+Deposits and Other Liabilities
+Total deposits increased $168.3 million, up 2.1%, or 8.5% annualized, to $8.0 billion at September 30, 2026 from $7.9 billion as of June 30, 2026. The increase was primarily driven by growth in non-interest-bearing demand deposits, interest-bearing accounts and time deposits, partially offset by lower money market and savings account balances.
+Total borrowings and other liabilities were $584.4 million at September 30, 2026, a decrease of $173.1 million, or 22.8%, from $757.5 million at June 30, 2026. The decrease for the quarter was primarily driven by lower Federal Home Loan Bank advances.
+Stockholders’ Equity
+Total stockholders’ equity was $1.3 billion at September 30, 2026, a decrease of $29.0 million, or 2.2%, from June 30, 2026. The decrease was primarily driven by an increase in accumulated other comprehensive loss related to available-for-sale securities, common share repurchases and dividends declared, partially offset by net income of $41.8 million.
+During the quarter ended September 30, 2026, we repurchased 521,980 shares of our common stock.
+(1) Represents non-GAAP financial measures. See “Reconciliation of non-GAAP Financial Measures” for a reconciliation of our non-GAAP measures to the most directly comparable GAAP financial measure.
+Byline Bancorp, Inc.
+Page 4 of 13
+Conference Call, Webcast and Slide Presentation
+We will host a conference call and webcast at 9:00 a.m. Central Time on Friday, October 23, 2026, to discuss our quarterly financial results. Analysts and investors may participate in the question-and-answer session. The call can be accessed via telephone at (833) 461-5787; Meeting ID: 511 124 815
+A slide presentation relating to our third quarter 2026 results will be accessible prior to the conference call. The slide presentation and webcast of the conference call can be accessed on our investor relations website at www.bylinebancorp.com.
+About Byline Bancorp, Inc.
+Headquartered in Chicago, Byline Bancorp, Inc. is the parent company of Byline Bank, a full service commercial bank serving small- and medium-sized businesses, financial sponsors, and consumers. Byline Bank has approximately $9.9 billion in assets and operates 44 branch locations throughout the Chicago and Milwaukee metropolitan areas. Byline Bank offers a broad range of commercial and community banking products and services including small ticket equipment leasing solutions and is one of the top Small Business Administration lenders in the United States.
+Forward-Looking Statements
+This communication contains forward-looking statements within the meaning of the U.S. federal securities laws. Forward-looking statements include, without limitation, statements concerning plans, estimates, calculations, forecasts and projections with respect to the anticipated future performance of the Company. These statements are often, but not always, made through the use of words or phrases such as ‘‘may’’, ‘‘might’’, ‘‘should’’, ‘‘could’’, ‘‘predict’’, ‘‘potential’’, ‘‘believe’’, ‘‘expect’’, ‘‘continue’’, ‘‘will’’, ‘‘anticipate’’, ‘‘seek’’, ‘‘estimate’’, ‘‘intend’’, ‘‘plan’’, ‘‘projection’’, ‘‘would’’, ‘‘annualized’’, “target” and ‘‘outlook’’, or the negative version of those words or other comparable words or phrases of a future or forward-looking nature. Forward-looking statements involve estimates and known and unknown risks, and reflect various assumptions and involve elements of subjective judgment and analysis, which may or may not prove to be correct, and which are subject to uncertainties and contingencies outside the control of Byline and its affiliates, directors, employees and other representatives, which could cause actual results to differ materially from those presented in this communication.
+No representations, warranties or guarantees are or will be made by Byline as to the reliability, accuracy or completeness of any forward-looking statements contained in this communication or that such forward-looking statements are or will remain based on reasonable assumptions. You should not place undue reliance on any forward-looking statements contained in this communication.
+Certain risks and important factors that could affect Byline’s future results are identified in our Annual Report on Form 10-K and other reports we file with the Securities and Exchange Commission, including among other things under the heading “Risk Factors” in our Annual Report on Form 10-K for the year ended December 31, 2025. Any forward-looking statement speaks only as of the date on which it is made, and Byline undertakes no obligation to update any forward-looking statement, whether to reflect events or circumstances after the date on which the statement is made, to reflect new information or the occurrence of unanticipated events, or otherwise unless required under the federal securities laws.
+Contact For Byline Bancorp, Inc.:
+Investors / Media:
+Brooks O. Rennie
+Investor Relations Director
+(312) 660-5805
+brennie@bylinebank.com
+Byline Bancorp, Inc.
+Page 5 of 13
+BYLINE BANCORP, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF FINANCIAL CONDITION (unaudited)
+September 30, | June 30, | September 30,
+(dollars in thousands) | 2026 | 2026 | 2025
+ASSETS
+Cash and due from banks | $ | 54,221 | $ | 77,159 | $ | 70,406
+Interest bearing deposits with other banks | 164,454 | 116,400 | 190,774
+Cash and cash equivalents | 218,675 | 193,559 | 261,180
+Equity and other securities, at fair value | 1,897 | 7,476 | 10,461
+Securities available-for-sale, at fair value | 1,640,029 | 1,616,748 | 1,512,194
+Restricted stock, at cost | 10,269 | 18,777 | 15,934
+Loans held for sale | 28,878 | 21,518 | 20,566
+Loans and leases:
+Loans and leases | 7,461,517 | 7,542,411 | 7,440,755
+Allowance for credit losses - loans and leases | (113,040 | ) | (111,861 | ) | (105,717 | )
+Net loans and leases | 7,348,477 | 7,430,550 | 7,335,038
+Servicing assets, at fair value | 19,242 | 19,291 | 19,019
+Premises and equipment, net | 55,735 | 55,981 | 58,785
+Other real estate owned, net | 2,781 | 3,153 | 4,220
+Goodwill and other intangible assets, net | 196,815 | 198,050 | 202,014
+Bank-owned life insurance | 108,940 | 109,414 | 106,575
+Deferred tax assets, net | 57,124 | 40,624 | 49,918
+Accrued interest receivable and other assets | 209,918 | 217,324 | 216,471
+Total assets | $ | 9,898,780 | $ | 9,932,465 | $ | 9,812,375
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+LIABILITIES
+Non-interest-bearing demand deposits | $ | 1,872,965 | $ | 1,826,739 | $ | 1,932,869
+Interest-bearing deposits | 6,166,145 | 6,044,023 | 5,895,328
+Total deposits | 8,039,110 | 7,870,762 | 7,828,197
+Other borrowings | 272,629 | 460,449 | 361,286
+Subordinated notes, net | 73,995 | 73,967 | 148,971
+Junior subordinated debentures issued to capital trusts, net | 72,016 | 71,814 | 71,272
+Accrued expenses and other liabilities | 165,788 | 151,258 | 164,967
+Total liabilities | 8,623,538 | 8,628,250 | 8,574,693
+STOCKHOLDERS’ EQUITY
+Common stock | 471 | 471 | 471
+Additional paid-in capital | 758,540 | 756,361 | 758,089
+Retained earnings | 748,048 | 712,588 | 615,784
+Treasury stock | (98,874 | ) | (78,627 | ) | (56,959 | )
+Accumulated other comprehensive loss, net of tax | (132,943 | ) | (86,578 | ) | (79,703 | )
+Total stockholders’ equity | 1,275,242 | 1,304,215 | 1,237,682
+Total liabilities and stockholders’ equity | $ | 9,898,780 | $ | 9,932,465 | $ | 9,812,375
+Byline Bancorp, Inc.
+Page 6 of 13
+BYLINE BANCORP, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS (unaudited)
+Three Months Ended
+(dollars in thousands, | September 30, | June 30, | September 30,
+except per share data) | 2026 | 2026 | 2025
+INTEREST AND DIVIDEND INCOME
+Interest and fees on loans and leases | $ | 128,969 | $ | 127,524 | $ | 132,401
+Interest on securities | 15,042 | 14,426 | 13,289
+Other interest and dividend income | 3,581 | 2,356 | 2,936
+Total interest and dividend income | 147,592 | 144,306 | 148,626
+INTEREST EXPENSE
+Deposits | 39,284 | 37,338 | 42,857
+Other borrowings | 1,750 | 3,273 | 1,502
+Subordinated notes and debentures | 2,882 | 2,859 | 4,377
+Total interest expense | 43,916 | 43,470 | 48,736
+Net interest income | 103,676 | 100,836 | 99,890
+PROVISION FOR CREDIT LOSSES | 6,748 | 7,162 | 5,298
+Net interest income after provision for credit losses | 96,928 | 93,674 | 94,592
+NON-INTEREST INCOME
+Fees and service charges on deposits | 2,925 | 2,853 | 2,741
+Loan servicing revenue | 3,062 | 3,047 | 3,062
+Loan servicing asset revaluation | (1,791 | ) | (1,126 | ) | (1,294 | )
+ATM and interchange fees | 1,289 | 1,377 | 1,015
+Net gains (losses) on sales of securities available-for-sale | — | 21 | —
+Change in fair value of equity securities, net | 218 | 814 | (298 | )
+Net gains on sales of loans | 5,802 | 6,095 | 6,981
+Wealth management and trust income | 1,394 | 1,270 | 1,366
+Other non-interest income | 4,433 | 2,525 | 2,272
+Total non-interest income | 17,332 | 16,876 | 15,845
+NON-INTEREST EXPENSE
+Salaries and employee benefits | 39,069 | 35,656 | 37,492
+Occupancy and equipment expense, net | 3,872 | 4,065 | 4,531
+Impairment charge on assets held for sale | — | 496 | —
+Loan and lease related expenses | 832 | 752 | 1,274
+Legal, audit, and other professional fees | 3,578 | 3,231 | 3,876
+Data processing | 4,773 | 4,866 | 4,903
+Net loss (gain) recognized on other real estate owned and other related expenses | 93 | 137 | 617
+Other intangible assets amortization expense | 1,235 | 1,235 | 1,494
+Other non-interest expense | 6,348 | 6,041 | 6,331
+Total non-interest expense | 59,800 | 56,479 | 60,518
+INCOME BEFORE PROVISION FOR INCOME TAXES | 54,460 | 54,071 | 49,919
+PROVISION FOR INCOME TAXES | 12,674 | 13,890 | 12,719
+NET INCOME | $ | 41,786 | $ | 40,181 | $ | 37,200
+EARNINGS PER COMMON SHARE
+Basic | $ | 0.94 | $ | 0.90 | $ | 0.82
+Diluted | $ | 0.94 | $ | 0.90 | $ | 0.82
+Byline Bancorp, Inc.
+Page 7 of 13
+BYLINE BANCORP, INC. AND SUBSIDIARIES
+SELECTED FINANCIAL DATA (unaudited)
+As of or For the Three Months Ended
+(dollars in thousands, except share | September 30, | June 30, | September 30,
+and per share data) | 2026 | 2026 | 2025
+Earnings per Common Share
+Basic earnings per common share | $ | 0.94 | $ | 0.90 | $ | 0.82
+Diluted earnings per common share | $ | 0.94 | $ | 0.90 | $ | 0.82
+Adjusted diluted earnings per common share(1)(3) | $ | 0.94 | $ | 0.91 | $ | 0.83
+Weighted average common shares outstanding (basic) | 44,265,063 | 44,596,967 | 45,102,828
+Weighted average common shares outstanding (diluted) | 44,541,961 | 44,789,192 | 45,372,602
+Common shares outstanding | 44,674,518 | 45,191,493 | 45,859,977
+Cash dividends per common share | $ | 0.14 | $ | 0.12 | $ | 0.10
+Dividend payout ratio on common stock | 14.89 | % | 13.33 | % | 12.20 | %
+Book value per common share | $ | 28.55 | $ | 28.86 | $ | 26.99
+Tangible book value per common share(1) | $ | 24.14 | $ | 24.48 | $ | 22.58
+Key Ratios and Performance Metrics (annualized where applicable)
+Net interest margin | 4.33 | % | 4.28 | % | 4.27 | %
+Net interest margin, fully taxable equivalent (1)(4) | 4.33 | % | 4.29 | % | 4.28 | %
+Average cost of deposits | 1.95 | % | 1.92 | % | 2.16 | %
+Efficiency ratio(1)(2) | 48.40 | % | 46.93 | % | 51.00 | %
+Adjusted efficiency ratio(1)(2)(3) | 48.40 | % | 46.51 | % | 50.27 | %
+Non-interest income to total revenues(1) | 14.32 | % | 14.34 | % | 13.69 | %
+Non-interest expense to average assets | 2.39 | % | 2.29 | % | 2.47 | %
+Adjusted non-interest expense to average assets(1)(3) | 2.39 | % | 2.27 | % | 2.44 | %
+Return on average stockholders' equity | 12.34 | % | 12.05 | % | 12.21 | %
+Adjusted return on average stockholders' equity(1)(3) | 12.34 | % | 12.16 | % | 12.42 | %
+Return on average assets | 1.67 | % | 1.63 | % | 1.52 | %
+Adjusted return on average assets(1)(3) | 1.67 | % | 1.65 | % | 1.54 | %
+Pre-tax pre-provision return on average assets(1) | 2.45 | % | 2.49 | % | 2.25 | %
+Adjusted pre-tax pre-provision return on average assets(1)(3) | 2.45 | % | 2.51 | % | 2.29 | %
+Return on average tangible common stockholders' equity(1) | 14.78 | % | 14.47 | % | 15.11 | %
+Adjusted return on average tangible common stockholders' equity(1)(3) | 14.78 | % | 14.60 | % | 15.36 | %
+Non-interest-bearing deposits to total deposits | 23.30 | % | 23.21 | % | 24.69 | %
+Loans and leases held for sale and loans and leases held for investment to total deposits | 93.17 | % | 96.10 | % | 95.31 | %
+Deposits to total liabilities | 93.22 | % | 91.22 | % | 91.29 | %
+Deposits per branch | $ | 182,707 | $ | 178,881 | $ | 173,960
+Asset Quality Ratios
+Non-performing loans and leases to total loans and leases held for investment, net before ACL | 1.14 | % | 0.92 | % | 0.85 | %
+Total non-performing assets as a percentage of total assets | 0.89 | % | 0.73 | % | 0.69 | %
+ACL to total loans and leases held for investment, net before ACL | 1.51 | % | 1.48 | % | 1.42 | %
+Net charge-offs to average total loans and leases held for investment, net before ACL - loans and leases | 0.31 | % | 0.24 | % | 0.38 | %
+Capital Ratios
+Common equity to total assets | 12.88 | % | 13.13 | % | 12.61 | %
+Tangible common equity to tangible assets(1) | 11.12 | % | 11.36 | % | 10.78 | %
+Leverage ratio | 12.90 | % | 12.79 | % | 12.20 | %
+Common equity tier 1 capital ratio | 13.29 | % | 12.92 | % | 12.15 | %
+Tier 1 capital ratio | 14.27 | % | 13.88 | % | 13.12 | %
+Total capital ratio | 16.37 | % | 15.96 | % | 15.81 | %
+(1) Represents a non-GAAP financial measure. See “Reconciliation of non-GAAP Financial Measures” for a reconciliation of our non-GAAP measures to the most directly comparable GAAP financial measure.
+(2) Represents non-interest expense less amortization of intangible assets divided by net interest income and non-interest income.
+(3) Calculation excludes secondary public offering of common stock expense and impairment charges on assets held for sale.
+(4) Interest income and rates include the effects of a tax equivalent adjustment to adjust tax exempt investment income on tax exempt investment securities to a fully taxable basis, assuming a federal income tax rate of 21%.
+Byline Bancorp, Inc.
+Page 8 of 13
+BYLINE BANCORP, INC. AND SUBSIDIARIES
+QUARTER-TO-DATE STATEMENT OF AVERAGE INTEREST-EARNING ASSETS AND AVERAGE INTEREST-BEARING LIABILITIES (unaudited)
+For the Three Months Ended
+September 30, 2026 | June 30, 2026 | September 30, 2025
+(dollars in thousands) | Average Balance(5) | Interest Inc / Exp | Avg. Yield / Rate | Average Balance(5) | Interest Inc / Exp | Avg. Yield / Rate | Average Balance(5) | Interest Inc / Exp | Avg. Yield / Rate
+ASSETS
+Cash and cash equivalents | $ | 211,540 | $ | 1,756 | 3.29 | % | $ | 145,381 | $ | 1,132 | 3.12 | % | $ | 193,683 | $ | 1,878 | 3.84 | %
+Loans and leases(1) | 7,449,374 | 128,969 | 6.87 | % | 7,472,818 | 127,524 | 6.84 | % | 7,355,958 | 132,401 | 7.14 | %
+Taxable securities | 1,729,277 | 16,236 | 3.72 | % | 1,707,484 | 14,978 | 3.52 | % | 1,585,013 | 13,491 | 3.38 | %
+Tax-exempt securities(2) | 118,992 | 798 | 2.66 | % | 131,354 | 850 | 2.60 | % | 153,424 | 1,084 | 2.80 | %
+Total interest-earning assets | $ | 9,509,183 | $ | 147,759 | 6.16 | % | $ | 9,457,037 | $ | 144,484 | 6.13 | % | $ | 9,288,078 | $ | 148,854 | 6.36 | %
+Allowance for credit losses - loans and leases | (114,389 | ) | (111,021 | ) | (109,877 | )
+All other assets | 528,742 | 536,969 | 538,719
+TOTAL ASSETS | $ | 9,923,536 | $ | 9,882,985 | $ | 9,716,920
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Deposits
+Interest checking | $ | 1,299,949 | $ | 7,470 | 2.28 | % | $ | 1,050,011 | $ | 5,048 | 1.93 | % | $ | 834,763 | $ | 3,682 | 1.75 | %
+Money market accounts | 2,709,522 | 17,480 | 2.56 | % | 2,854,519 | 18,585 | 2.61 | % | 2,986,541 | 23,468 | 3.12 | %
+Savings | 483,203 | 130 | 0.11 | % | 490,500 | 130 | 0.11 | % | 495,506 | 136 | 0.11 | %
+Time deposits | 1,650,495 | 14,204 | 3.41 | % | 1,624,667 | 13,575 | 3.35 | % | 1,654,056 | 15,571 | 3.73 | %
+Total interest-bearing deposits | 6,143,169 | 39,284 | 2.54 | % | 6,019,697 | 37,338 | 2.49 | % | 5,970,866 | 42,857 | 2.85 | %
+Other borrowings | 283,922 | 1,750 | 2.45 | % | 442,187 | 3,273 | 2.97 | % | 307,457 | 1,502 | 1.94 | %
+Subordinated notes and debentures | 145,898 | 2,882 | 7.84 | % | 145,672 | 2,859 | 7.87 | % | 190,074 | 4,377 | 9.14 | %
+Total borrowings | 429,820 | 4,632 | 4.28 | % | 587,859 | 6,132 | 4.18 | % | 497,531 | 5,879 | 4.69 | %
+Total interest-bearing liabilities | $ | 6,572,989 | $ | 43,916 | 2.65 | % | $ | 6,607,556 | $ | 43,470 | 2.64 | % | $ | 6,468,397 | $ | 48,736 | 2.99 | %
+Non-interest-bearing demand deposits | 1,856,218 | 1,792,439 | 1,888,693
+Other liabilities | 150,967 | 145,406 | 151,540
+Total stockholders’ equity | 1,343,362 | 1,337,584 | 1,208,290
+TOTAL LIABILITIES AND STOCKHOLDERS’ EQUITY | $ | 9,923,536 | $ | 9,882,985 | $ | 9,716,920
+Net interest spread(3) | 3.51 | % | 3.49 | % | 3.37 | %
+Net interest income, fully taxable equivalent | $ | 103,843 | $ | 101,014 | $ | 100,118
+Net interest margin, fully taxable equivalent(2)(4)(6) | 4.33 | % | 4.29 | % | 4.28 | %
+Less: Tax-equivalent adjustment | 167 | 0.00 | % | 178 | 0.01 | % | 228 | 0.01 | %
+Net interest income | $ | 103,676 | $ | 100,836 | $ | 99,890
+Net interest margin(4) | 4.33 | % | 4.28 | % | 4.27 | %
+Net loan accretion impact on margin | $ | 1,534 | 0.06 | % | $ | 2,476 | 0.11 | % | $ | 2,528 | 0.11 | %
+(1) Loan and lease balances are net of deferred origination fees and costs and initial direct costs. Non-accrual loans and leases are included in total loan and lease balances.
+(2) Interest income and rates include the effects of a tax equivalent adjustment to adjust tax exempt investment income on tax exempt investment securities to a fully taxable basis, assuming a federal income tax rate of 21%.
+(3) Represents the average rate earned on interest-earning assets minus the average rate paid on interest-bearing liabilities.
+(4) Represents net interest income (annualized) divided by total average earning assets.
+(5) Average balances are average daily balances.
+Byline Bancorp, Inc.
+Page 9 of 13
+BYLINE BANCORP, INC. AND SUBSIDIARIES
+SELECTED BALANCE SHEET TABLES AND FINANCIAL RATIOS (unaudited)
+The following table presents our allocation of originated, purchased credit deteriorated (PCD), and acquired non-credit-deteriorated loans and leases at the dates indicated:
+September 30, 2026 | June 30, 2026 | September 30, 2025
+(dollars in thousands) | Amount | % of Total | Amount | % of Total | Amount | % of Total
+Originated loans and leases:
+Commercial real estate | $ | 2,390,641 | 32.0 | % | $ | 2,303,785 | 30.5 | % | $ | 2,234,986 | 30.0 | %
+Residential real estate | 638,538 | 8.6 | % | 575,062 | 7.6 | % | 552,984 | 7.4 | %
+Construction, land development, and other land | 237,851 | 3.2 | % | 344,578 | 4.6 | % | 412,032 | 5.6 | %
+Commercial and industrial | 3,070,144 | 41.1 | % | 3,120,209 | 41.3 | % | 2,804,434 | 37.7 | %
+Installment and other | 4,324 | 0.1 | % | 4,817 | 0.1 | % | 2,431 | 0.0 | %
+Leasing financing receivables | 695,456 | 9.3 | % | 721,090 | 9.6 | % | 750,531 | 10.1 | %
+Total originated loans and leases | $ | 7,036,954 | 94.3 | % | $ | 7,069,541 | 93.7 | % | $ | 6,757,398 | 90.8 | %
+Purchased credit deteriorated loans:
+Commercial real estate | $ | 50,926 | 0.7 | % | $ | 59,161 | 0.8 | % | $ | 71,359 | 1.0 | %
+Residential real estate | 15,549 | 0.2 | % | 18,941 | 0.2 | % | 24,061 | 0.3 | %
+Construction, land development, and other land | 2,689 | 0.0 | % | 2,674 | 0.0 | % | 2,513 | 0.0 | %
+Commercial and industrial | 5,332 | 0.1 | % | 5,633 | 0.1 | % | 19,193 | 0.3 | %
+Installment and other | 64 | 0.0 | % | 66 | 0.0 | % | 81 | 0.0 | %
+Total purchased credit deteriorated loans | $ | 74,560 | 1.0 | % | $ | 86,475 | 1.1 | % | $ | 117,207 | 1.6 | %
+Acquired non-credit-deteriorated loans and leases:
+Commercial real estate | $ | 136,720 | 1.9 | % | $ | 152,230 | 2.0 | % | $ | 215,801 | 2.9 | %
+Residential real estate | 143,173 | 1.9 | % | 148,709 | 2.0 | % | 178,896 | 2.4 | %
+Construction, land development, and other land | — | — | — | — | 50,493 | 0.7 | %
+Commercial and industrial | 67,086 | 0.9 | % | 80,537 | 1.1 | % | 106,827 | 1.4 | %
+Installment and other | 3,024 | 0.0 | % | 4,919 | 0.1 | % | 14,133 | 0.2 | %
+Total acquired non-credit-deteriorated loans and leases | $ | 350,003 | 4.7 | % | $ | 386,395 | 5.2 | % | $ | 566,150 | 7.6 | %
+Total loans and leases | $ | 7,461,517 | 100.0 | % | $ | 7,542,411 | 100.0 | % | $ | 7,440,755 | 100.0 | %
+Allowance for credit losses - loans and leases | (113,040 | ) | (111,861 | ) | (105,717 | )
+Total loans and leases, net of allowance for credit losses - loans and leases | $ | 7,348,477 | $ | 7,430,550 | $ | 7,335,038
+The following table presents the balance and activity within the allowance for credit losses - loans and leases for the periods indicated:
+Three Months Ended
+September 30, | June 30, | September 30,
+(dollars in thousands) | 2026 | 2026 | 2025
+ACL - loans and leases, beginning of period | $ | 111,861 | $ | 108,879 | $ | 107,727
+Provision for credit losses - loans and leases | 7,025 | 7,428 | 5,097
+Net charge-offs - loans and leases | (5,846 | ) | (4,446 | ) | (7,107 | )
+ACL - loans and leases, end of period | $ | 113,040 | $ | 111,861 | $ | 105,717
+Net charge-offs - loans and leases to average total loans and leases held for investment, net before ACL (annualized) | 0.31 | % | 0.24 | % | 0.38 | %
+Provision for credit losses - loans and leases to net charge-offs - loans and leases during the period | 1.20 | x | 1.67 | x | 0.72 | x
+Byline Bancorp, Inc.
+Page 10 of 13
+BYLINE BANCORP, INC. AND SUBSIDIARIES
+SELECTED BALANCE SHEET TABLES AND FINANCIAL RATIOS (unaudited)
+The following table presents the amounts of non-performing loans and leases, other real estate owned, and past due loans and leases 90 days or more and still accruing interest, at the date indicated:
+September 30, 2026
+Change from
+(dollars in thousands) | September 30, 2026 | June 30, 2026 | September 30, 2025 | June 30, 2026 | September 30, 2025
+Non-performing assets:
+Non-performing loans and leases | $ | 85,077 | $ | 69,087 | $ | 63,158 | 23.1 | % | 34.7 | %
+Other real estate owned | 2,781 | 3,153 | 4,220 | (11.8 | )% | (34.1 | )%
+Total non-performing assets | $ | 87,858 | $ | 72,240 | $ | 67,378 | 21.6 | % | 30.4 | %
+Total non-performing loans and leases as a percentage of total loans and leases | 1.14 | % | 0.92 | % | 0.85 | %
+Total non-performing assets as a percentage of total assets | 0.89 | % | 0.73 | % | 0.69 | %
+Allowance for credit losses - loans and lease as a percentage of non-performing loans and leases | 132.87 | % | 161.91 | % | 167.38 | %
+Non-performing assets guaranteed by U.S. government:
+Non-accrual loans guaranteed | $ | 9,657 | $ | 8,136 | $ | 8,417 | 18.7 | % | 14.7 | %
+Total non-performing loans guaranteed | $ | 9,657 | $ | 8,136 | $ | 8,417 | 18.7 | % | 14.7 | %
+Total non-performing loans and leases not guaranteed as a percentage of total loans and leases | 1.01 | % | 0.81 | % | 0.74 | %
+Total non-performing assets not guaranteed as a percentage of total assets | 0.79 | % | 0.65 | % | 0.60 | %
+Past due loans and leases 90 days or more and accruing interest:
+Past due leases 90 days or more and accruing interest | $ | 544 | $ | 1,114 | $ | — | (51.2 | )% | 100.0 | %
+Total past due loans and leases 90 days or more and accruing interest | $ | 544 | $ | 1,114 | $ | — | (51.2 | )% | 100.0 | %
+Total past due loans and leases 90 days or more and accruing as a percentage of total loans and leases | 0.01 | % | 0.01 | % | —
+The following table presents the composition of deposits at the dates indicated:
+September 30, 2026
+Change from
+(dollars in thousands) | September 30, 2026 | June 30, 2026 | September 30, 2025 | June 30, 2026 | September 30, 2025
+Non-interest-bearing demand deposits | $ | 1,872,965 | $ | 1,826,739 | $ | 1,932,869 | 2.5 | % | (3.1 | )%
+Interest-bearing checking accounts | 1,346,583 | 1,229,287 | 868,922 | 9.5 | % | 55.0 | %
+Money market demand accounts | 2,692,285 | 2,710,183 | 2,957,995 | (0.7 | )% | (9.0 | )%
+Other savings | 474,333 | 489,415 | 488,894 | (3.1 | )% | (3.0 | )%
+Time deposits (below $250,000) | 1,163,972 | 1,152,305 | 1,151,764 | 1.0 | % | 1.1 | %
+Time deposits ($250,000 and above) | 488,972 | 462,833 | 427,753 | 5.6 | % | 14.3 | %
+Total deposits | $ | 8,039,110 | $ | 7,870,762 | $ | 7,828,197 | 2.1 | % | 2.7 | %
+Byline Bancorp, Inc.
+Page 11 of 13
+BYLINE BANCORP, INC. AND SUBSIDIARIES
+RECONCILIATION OF NON-GAAP FINANCIAL MEASURES (unaudited)
+Non-GAAP Financial Measures
+This release contains certain financial information determined by methods other than in accordance with accounting principles generally accepted in the United States of America (“GAAP”). These measures include adjusted net income, adjusted diluted earnings per share, adjusted non-interest expense, adjusted non-interest expense excluding amortization of intangible assets, adjusted efficiency ratio, adjusted non-interest expense to average assets, tax equivalent net interest income, tax-equivalent net interest margin, total revenue, non-interest income to total revenues, adjusted return on average stockholders’ equity, adjusted return on average assets, pre-tax pre-provision net income, adjusted pre-tax pre-provision net income, pre-tax pre-provision return on average assets, adjusted pre-tax pre-provision return on average assets, tangible common stockholders' equity, tangible assets, average tangible assets, tangible net income, adjusted tangible net income, tangible book value per common share, tangible common equity to tangible assets, return on average tangible common stockholders' equity, and adjusted return on average tangible common stockholders' equity. Management believes that these non-GAAP financial measures provide useful information to management and investors that is supplementary to the Company’s financial condition, results of operations and cash flows computed in accordance with GAAP; however, management acknowledges that our non-GAAP financial measures have a number of limitations. As such, these disclosures should not be viewed as a substitute for results determined in accordance with GAAP financial measures that we and other companies use. Management also uses these measures for peer comparison. See below in the financial schedules included in this press release for a reconciliation of the non-GAAP financial measures to the comparable GAAP financial measures. Additionally, please refer to the Company’s Annual Report on Form 10-K for the detailed definitions of these non-GAAP financial measures.
+As of or For the Three Months Ended
+September 30, | June 30, | September 30,
+(dollars in thousands, except per share data) | 2026 | 2026 | 2025
+Net income and earnings per share excluding significant items:
+Reported Net Income | $ | 41,786 | $ | 40,181 | $ | 37,200
+Significant items:
+Impairment charges on assets held for sale | — | 496 | —
+Loss on extinguishment of debt | — | — | 843
+Tax benefit | — | (130 | ) | (221 | )
+Adjusted Net Income | $ | 41,786 | $ | 40,547 | $ | 37,822
+Reported Diluted Earnings per Share | $ | 0.94 | $ | 0.90 | $ | 0.82
+Significant items:
+Impairment charges on assets held for sale | — | 0.01 | —
+Loss on extinguishment of debt | — | — | 0.02
+Tax benefit | — | — | (0.01 | )
+Adjusted Diluted Earnings per Share | $ | 0.94 | $ | 0.91 | $ | 0.83
+Byline Bancorp, Inc.
+Page 12 of 13
+BYLINE BANCORP, INC. AND SUBSIDIARIES
+RECONCILIATION OF NON-GAAP FINANCIAL MEASURES (continued) (unaudited)
+As of or For the Three Months Ended
+(dollars in thousands, except per share data, | September 30, | June 30, | September 30,
+ratios annualized, where applicable) | 2026 | 2026 | 2025
+Adjusted non-interest expense:
+Non-interest expense | $ | 59,800 | $ | 56,479 | $ | 60,518
+Less: Impairment charges on assets held for sale | — | 496 | —
+Less: Loss on extinguishment of debt | — | — | 843
+Adjusted non-interest expense | $ | 59,800 | $ | 55,983 | $ | 59,675
+Adjusted non-interest expense excluding amortization of intangible assets:
+Adjusted non-interest expense | $ | 59,800 | $ | 55,983 | $ | 59,675
+Less: Amortization of intangible assets | 1,235 | 1,235 | 1,494
+Adjusted non-interest expense excluding amortization of intangible assets | $ | 58,565 | $ | 54,748 | $ | 58,181
+Pre-tax pre-provision net income:
+Pre-tax income | $ | 54,460 | $ | 54,071 | $ | 49,919
+Add: Provision for credit losses | 6,748 | 7,162 | 5,298
+Pre-tax pre-provision net income | $ | 61,208 | $ | 61,233 | $ | 55,217
+Adjusted pre-tax pre-provision net income:
+Pre-tax pre-provision net income | $ | 61,208 | $ | 61,233 | $ | 55,217
+Add: Impairment charges on assets held for sale | — | 496 | —
+Add: Loss on extinguishment of debt | — | — | 843
+Adjusted pre-tax pre-provision net income | $ | 61,208 | $ | 61,729 | $ | 56,060
+Tax equivalent net interest income:
+Net interest income | $ | 103,676 | $ | 100,836 | $ | 99,890
+Add: Tax-equivalent adjustment | 167 | 178 | 228
+Net interest income, fully taxable equivalent | $ | 103,843 | $ | 101,014 | $ | 100,118
+Total revenue:
+Net interest income | $ | 103,676 | $ | 100,836 | $ | 99,890
+Add: Non-interest income | 17,332 | 16,876 | 15,845
+Total revenue | $ | 121,008 | $ | 117,712 | $ | 115,735
+Tangible common stockholders' equity:
+Total stockholders' equity | $ | 1,275,242 | $ | 1,304,215 | $ | 1,237,682
+Less: Goodwill and other intangibles | 196,815 | 198,050 | 202,014
+Tangible common stockholders' equity | $ | 1,078,427 | $ | 1,106,165 | $ | 1,035,668
+Tangible assets:
+Total assets | $ | 9,898,780 | $ | 9,932,465 | $ | 9,812,375
+Less: Goodwill and other intangibles | 196,815 | 198,050 | 202,014
+Tangible assets | $ | 9,701,965 | $ | 9,734,415 | $ | 9,610,361
+Average tangible common stockholders' equity:
+Average total stockholders' equity | $ | 1,343,362 | $ | 1,337,584 | $ | 1,208,290
+Less: Average goodwill and other intangibles | 197,424 | 198,629 | 202,723
+Average tangible common stockholders' equity | $ | 1,145,938 | $ | 1,138,955 | $ | 1,005,567
+Average tangible assets:
+Average total assets | $ | 9,923,536 | $ | 9,882,985 | $ | 9,716,920
+Less: Average goodwill and other intangibles | 197,424 | 198,629 | 202,723
+Average tangible assets | $ | 9,726,112 | $ | 9,684,356 | $ | 9,514,197
+Tangible net income:
+Net income | $ | 41,786 | $ | 40,181 | $ | 37,200
+Add: After-tax intangible asset amortization | 913 | 912 | 1,103
+Tangible net income | $ | 42,699 | $ | 41,093 | $ | 38,303
+Adjusted tangible net income:
+Tangible net income | $ | 42,699 | $ | 41,093 | $ | 38,303
+Add: Impairment charges on assets held for sale | — | 496 | —
+Add: Loss on extinguishment of debt | — | — | 843
+Add: Tax benefit on significant items | — | (130 | ) | (221 | )
+Adjusted tangible net income | $ | 42,699 | $ | 41,459 | $ | 38,925
+Byline Bancorp, Inc.
+Page 13 of 13
+BYLINE BANCORP, INC. AND SUBSIDIARIES
+RECONCILIATION OF NON-GAAP FINANCIAL MEASURES (continued) (unaudited)
+As of or For the Three Months Ended
+(dollars in thousands, except share and per share | September 30, | June 30, | September 30,
+data, ratios annualized, where applicable) | 2026 | 2026 | 2025
+Pre-tax pre-provision return on average assets:
+Pre-tax pre-provision net income | $ | 61,208 | $ | 61,233 | $ | 55,217
+Average total assets | 9,923,536 | 9,882,985 | 9,716,920
+Pre-tax pre-provision return on average assets | 2.45 | % | 2.49 | % | 2.25 | %
+Adjusted pre-tax pre-provision return on average assets:
+Adjusted pre-tax pre-provision net income | $ | 61,208 | $ | 61,729 | $ | 56,060
+Average total assets | 9,923,536 | 9,882,985 | 9,716,920
+Adjusted pre-tax pre-provision return on average assets | 2.45 | % | 2.51 | % | 2.29 | %
+Net interest margin, fully taxable equivalent:
+Net interest income, fully taxable equivalent | $ | 103,843 | $ | 101,014 | $ | 100,118
+Total average interest-earning assets | 9,509,183 | 9,457,037 | 9,288,078
+Net interest margin, fully taxable equivalent | 4.33 | % | 4.29 | % | 4.28 | %
+Non-interest income to total revenues:
+Non-interest income | $ | 17,332 | $ | 16,876 | $ | 15,845
+Total revenues | 121,008 | 117,712 | 115,735
+Non-interest income to total revenues | 14.32 | % | 14.34 | % | 13.69 | %
+Adjusted non-interest expense to average assets:
+Adjusted non-interest expense | $ | 59,800 | $ | 55,983 | $ | 59,675
+Average total assets | 9,923,536 | 9,882,985 | 9,716,920
+Adjusted non-interest expense to average assets | 2.39 | % | 2.27 | % | 2.44 | %
+Adjusted efficiency ratio:
+Adjusted non-interest expense excluding amortization of intangible assets | $ | 58,565 | $ | 54,748 | $ | 58,181
+Total revenues | 121,008 | 117,712 | 115,735
+Adjusted efficiency ratio | 48.40 | % | 46.51 | % | 50.27 | %
+Adjusted return on average assets:
+Adjusted net income | $ | 41,786 | $ | 40,547 | $ | 37,822
+Average total assets | 9,923,536 | 9,882,985 | 9,716,920
+Adjusted return on average assets | 1.67 | % | 1.65 | % | 1.54 | %
+Adjusted return on average stockholders' equity:
+Adjusted net income | $ | 41,786 | $ | 40,547 | $ | 37,822
+Average stockholders' equity | 1,343,362 | 1,337,584 | 1,208,290
+Adjusted return on average stockholders' equity | 12.34 | % | 12.16 | % | 12.42 | %
+Tangible common equity to tangible assets:
+Tangible common equity | $ | 1,078,427 | $ | 1,106,165 | $ | 1,035,668
+Tangible assets | 9,701,965 | 9,734,415 | 9,610,361
+Tangible common equity to tangible assets | 11.12 | % | 11.36 | % | 10.78 | %
+Return on average tangible common stockholders' equity:
+Tangible net income | $ | 42,699 | $ | 41,093 | $ | 38,303
+Average tangible common stockholders' equity | 1,145,938 | 1,138,955 | 1,005,567
+Return on average tangible common stockholders' equity | 14.78 | % | 14.47 | % | 15.11 | %
+Adjusted return on average tangible common stockholders' equity:
+Adjusted tangible net income | $ | 42,699 | $ | 41,459 | $ | 38,925
+Average tangible common stockholders' equity | 1,145,938 | 1,138,955 | 1,005,567
+Adjusted return on average tangible common stockholders' equity | 14.78 | % | 14.60 | % | 15.36 | %
+Tangible book value per common share:
+Tangible common equity | $ | 1,078,427 | $ | 1,106,165 | $ | 1,035,668
+Common shares outstanding | 44,674,518 | 45,191,493 | 45,859,977
+Tangible book value per common share | $ | 24.14 | $ | 24.48 | $ | 22.58

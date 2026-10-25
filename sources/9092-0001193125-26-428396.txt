@@ -1,0 +1,145 @@
+Company: BADGER METER INC (CIK 9092)
+Accession: 0001193125-26-428396
+Results released: 2026-10-22
+Press release: https://www.sec.gov/Archives/edgar/data/9092/000119312526428396/bmi-ex99_pressrelease.htm
+Filing: https://www.sec.gov/Archives/edgar/data/9092/000119312526428396/0001193125-26-428396-index.htm
+Saved: 2026-10-25T21:51:33+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.PRESSRELEASE 2 bmi-ex99_pressrelease.htm EX-99.PRESSRELEASE
+Exhibit 99.1
+Badger Meter News Release
+Dan Weltzien, Vice President – CFO and Treasurer
+investors@badgermeter.com
+BADGER METER REPORTS THIRD QUARTER 2026 FINANCIAL RESULTS
+Milwaukee, WI, October 22, 2026 - Badger Meter, Inc. (NYSE: BMI) today reported results for the third quarter ended September 30, 2026.
+Third Quarter 2026 Highlights
+•
+Total sales of $235.9 million increased modestly from the prior year’s $235.7 million and improved 6% sequentially from the second quarter. Base1 sales were $230.3 million.
+•
+Operating earnings increased 4% year-over-year to $47.7 million, with operating profit margins of 20.2% versus 19.6% in the prior year comparable quarter. Base operating earnings of $48.0 million increased 4% year-over-year, with Base operating profit margins of 20.9%.
+•
+Diluted earnings per share (EPS) of $1.24, a 4% increase from $1.19 in the third quarter of 2025.
+•
+Increased annual dividend rate by 10% to $1.76 per share, representing the 34th consecutive year of dividend growth.
+“We were pleased with our third quarter financial results delivering continued sequential sales and operating profit improvement” said Kenneth C. Bockhorst, Chairman, President and Chief Executive Officer. “Consistent with our expectations, third quarter sales reflected the ongoing ramp of awarded utility water projects as well as solid underlying demand trends. I want to thank our employees across the globe for their commitment, contributions and ongoing customer focus.”
+Third Quarter 2026 Operating Results
+Utility water sales were flat year-over-year, including $5.6 million from the UDlive acquisition. Excluding the acquisition, utility water sales increased 5% sequentially from the second quarter, yet declined 3% year-over-year, reflecting uneven AMI project pacing partially offset by higher software revenue.
+Sales of flow instrumentation products increased 2% year-over-year, with strong demand across the water-focused end markets against a difficult prior year comparison.
+Operating earnings improved 4% year-over-year to $47.7 million, representing a 60-basis point improvement in operating profit margins to 20.2%. Base operating earnings of $48.0 million increased 4% year-over-year, with Base operating profit margins of 20.9%.
+Gross margins of 41.9% were 120 basis points higher than the prior year’s 40.7%. Margin improvement reflects higher sales and structural mix benefits, while UDlive gross margins include the dilutive impact of inventory fair-value step-up amortization.
+Selling, Engineering and Administration (SEA) expenses of $51.1 million were $1.3 million higher year-over-year. The inclusion of UDlive results along with related intangible asset amortization combined added $2.3 million to year-over-year expenses. Base SEA expenses of $48.8 million declined $0.9 million or 2% year-over-year due to the benefit of appropriate spending controls and lower incentive compensation.
+The effective tax rate for the third quarter of 2026 was 25.1%, compared to 26.1% in the prior year. As a result of the above, EPS of $1.24 increased 4% from the prior year’s $1.19.
+Outlook
+Bockhorst concluded, “As we enter the final quarter of 2026, we continue to anticipate both sequential and year-over-year Base revenue improvement, inclusive of the fewer operating days typical for the fourth fiscal quarter, and expect to sustain this growth momentum into 2027. We remain steadfastly focused on cost management actions to mitigate the uneven 2026 sales cadence, while effectively addressing ongoing material cost pressures related to broad electronics supply chain dynamics.”
+We maintain our focus on long-term strategic priorities including advancing the multi-year opportunity funnel for both metering and beyond the meter applications. We also continue to enhance our BlueEdge® portfolio of solutions against the backdrop of a multi-decade digital transformation of the global water sector, as demonstrated by the recent launch of OneNetwork™, our real-time network monitoring and analysis software platform.
+During the quarter we repurchased approximately $55 million of our outstanding shares and increased our annual dividend rate for the 34th consecutive year, demonstrating our commitment to returning cash to shareholders.
+In closing, I remain excited about the value creation opportunities ahead of us as we further our vision to preserve and protect the world’s most precious resource.”
+1 Adjusted metrics (“Base”) are non-GAAP measures excluding the results of UDlive acquired May 1, 2026. See appendix for reconciliations of these GAAP to non-GAAP measures.
+Conference Call and Webcast Information
+Badger Meter management will hold a conference call to discuss the Company’s third quarter 2026 results today, Thursday, October 22, 2026 at 10:00 AM Central/11:00 AM Eastern time. A live listen-only webcast and the related presentation will be available on the Events & Presentations section of the Company’s investor relations website. Those wishing to actively participate in the conference call must pre-register using the following link: https://events.q4inc.com/attendee/365814936
+Safe Harbor Statement
+Certain statements contained in this news release, as well as other information provided from time to time by Badger Meter, Inc. (the “Company”) or its employees, may contain forward-looking statements that involve risks and uncertainties that could cause actual results to differ materially from those statements. The Company’s results are subject to general economic conditions, variation in demand from customers, continued market acceptance of new products, the successful integration of
+acquisitions, competitive pricing and operating efficiencies, supply chain risk, material and labor cost increases, tax reform and foreign currency risk. See the Company’s Annual Report on Form 10-K filed with the Securities and Exchange Commission for further information regarding risk factors, which are incorporated herein by reference. Badger Meter disclaims any obligation to publicly update or revise any forward-looking statements as a result of new information, future events or any other reason.
+About Badger Meter
+With more than a century of water technology innovation, Badger Meter provides comprehensive water management solutions through its BlueEdge® suite. This tailorable portfolio of smart measurement hardware, reliable communications, data visualization and analytics software and ongoing support and industry expertise give customers the edge in optimizing their operations and contributing to the sustainable use and protection of the world’s most precious resource. For more information, visit www.badgermeter.com.
+BADGER METER, INC.
+CONSOLIDATED CONDENSED STATEMENTS OF OPERATIONS
+(in thousands, except share and earnings per share data)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+(Unaudited) | (Unaudited) | (Unaudited) | (Unaudited)
+Net sales | $ | 235,938 | $ | 235,651 | $ | 660,536 | $ | 695,957
+Cost of sales | 137,089 | 139,815 | 386,587 | 406,874
+Gross margin | 98,849 | 95,836 | 273,949 | 289,083
+Selling, engineering and administration | 51,107 | 49,752 | 151,659 | 148,711
+Operating earnings | 47,742 | 46,084 | 122,290 | 140,372
+Interest income, net | (188 | ) | (1,330 | ) | (1,645 | ) | (3,559 | )
+Other pension and postretirement income | (28 | ) | (28 | ) | (84 | ) | (84 | )
+Earnings before income taxes | 47,958 | 47,442 | 124,019 | 144,015
+Provision for income taxes | 12,055 | 12,365 | 31,061 | 35,956
+Net earnings | $ | 35,903 | $ | 35,077 | $ | 92,958 | $ | 108,059
+Earnings per share:
+Basic | $ | 1.25 | $ | 1.19 | $ | 3.21 | $ | 3.67
+Diluted | $ | 1.24 | $ | 1.19 | $ | 3.19 | $ | 3.65
+Shares used in computation of earnings per share:
+Basic | 28,750,150 | 29,424,004 | 28,999,955 | 29,405,429
+Diluted | 28,871,187 | 29,583,384 | 29,125,127 | 29,577,619
+-more-
+BADGER METER, INC.
+CONSOLIDATED CONDENSED BALANCE SHEETS
+(in thousands)
+Assets | September 30, | December 31,
+2026 | 2025
+(Unaudited)
+Cash and cash equivalents | $ | 67,928 | $ | 226,016
+Receivables | 111,826 | 112,356
+Inventories | 166,427 | 151,935
+Other current assets | 21,719 | 16,770
+Total current assets | 367,900 | 507,077
+Net property, plant and equipment | 83,473 | 79,636
+Intangible assets, at cost less accumulated amortization | 157,513 | 118,496
+Other long-term assets | 31,957 | 32,793
+Goodwill | 302,805 | 235,575
+Total assets | $ | 943,648 | $ | 973,577
+Liabilities and Shareholders' Equity
+Payables | $ | 70,275 | $ | 72,299
+Accrued compensation and employee benefits | 21,904 | 37,619
+Other current liabilities | 56,117 | 40,798
+Total current liabilities | 148,296 | 150,716
+Deferred income taxes | 16,616 | 3,477
+Long-term deferred revenue, employee benefits and other | 127,604 | 106,090
+Shareholders' equity | 651,132 | 713,294
+Total liabilities and shareholders' equity | $ | 943,648 | $ | 973,577
+-more-
+BADGER METER, INC.
+CONSOLIDATED CONDENSED STATEMENTS OF CASH FLOWS
+(in thousands)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+(Unaudited) | (Unaudited) | (Unaudited) | (Unaudited)
+Operating activities:
+Net earnings | $ | 35,903 | $ | 35,077 | $ | 92,958 | $ | 108,059
+Adjustments to reconcile net earnings to net cash provided by operations:
+Depreciation | 2,636 | 2,607 | 8,297 | 8,326
+Amortization | 7,555 | 6,100 | 20,804 | 17,458
+Noncurrent employee benefits | (154 | ) | 40 | (140 | ) | 45
+Stock-based compensation expense | 2,474 | 2,041 | 7,821 | 6,445
+Changes in:
+Receivables | 9,252 | 2,503 | 690 | (22,803 | )
+Inventories | 10,702 | (5,759 | ) | (10,508 | ) | (1,740 | )
+Payables | (27,510 | ) | (4,285 | ) | (3,515 | ) | 11,937
+Prepaid expenses and other assets | (2,374 | ) | (188 | ) | (10,059 | ) | (3,276 | )
+Other liabilities | 4,790 | 13,148 | (2,470 | ) | 4,446
+Total adjustments | 7,371 | 16,207 | 10,920 | 20,838
+Net cash provided by operations | 43,274 | 51,284 | 103,878 | 128,897
+Investing activities:
+Property, plant and equipment expenditures | (2,992 | ) | (3,089 | ) | (12,258 | ) | (9,993 | )
+Proceeds from company owned life insurance plans | 454 | - | 454 | -
+Acquisitions, net of cash acquired | - | - | (94,375 | ) | (184,024 | )
+Net cash used for investing activities | (2,538 | ) | (3,089 | ) | (106,179 | ) | (194,017 | )
+Financing activities:
+Dividends paid | (12,634 | ) | (11,770 | ) | (35,936 | ) | (31,791 | )
+Proceeds from exercise of stock options | - | - | 140 | 554
+Repurchase of common stock for treasury stock | (55,547 | ) | - | (119,014 | ) | -
+Net cash used for financing activities | (68,181 | ) | (11,770 | ) | (154,810 | ) | (31,237 | )
+Effect of foreign exchange rates on cash | (360 | ) | 60 | (977 | ) | 2,745
+(Decrease) Increase in cash and cash equivalents | (27,805 | ) | 36,485 | (158,088 | ) | (93,612 | )
+Cash and cash equivalents - beginning of period | 95,733 | 165,208 | 226,016 | 295,305
+Cash and cash equivalents - end of period | $ | 67,928 | $ | 201,693 | $ | 67,928 | $ | 201,693
+-more-
+APPENDIX
+BADGER METER, INC.
+RECONCILIATION OF NON-GAAP PERFORMANCE MEASURES TO GAAP PERFORMANCE MEASURES
+(in thousands, except share and earnings per share data)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | UDlive | Base | 2026 | UDlive | Base
+(Unaudited) | (Unaudited) | (Unaudited) | (Unaudited) | (Unaudited) | (Unaudited)
+Net sales | $ | 235,938 | $ | 5,639 | $ | 230,299 | $ | 660,536 | $ | 7,663 | $ | 652,873
+Selling, engineering and administration | 51,107 | 2,272 | 48,835 | 151,659 | 4,080 | 147,579
+Operating earnings (loss) | 47,742 | (276 | ) | 48,018 | 122,290 | (1,524 | ) | 123,814
+Operating earnings as % of sales | 20.2 | % | -4.9 | % | 20.9 | % | 18.5 | % | -19.9 | % | 19.0 | %
+* UDlive results are included from the date of acquisition of May 1, 2026.
+** UDlive amortization was $1.2 million and $2.0 million for the three months and nine months ended September 30, 2026, respectively and reported as part of Selling, engineering and administration expenses.
+*** UDlive results include $0.5 million and $0.7 million for the three and nine months ended September 30, 2026, respectively, of inventory step-up amortization associated with acquisition accounting.
+###
