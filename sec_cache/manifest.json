@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-27T08:24:04+08:00",
+  "fetched_at": "2026-10-27T08:45:37+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,85 +16,85 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-26",
       "ok": true,
-      "detail": "HTTP 200, 43 KB in 86 ms"
+      "detail": "HTTP 200, 43 KB in 204 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 66 ms"
+      "detail": "HTTP 200, 148 KB in 80 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 41 ms"
+      "detail": "HTTP 200, 156 KB in 39 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 155 KB in 68 ms"
+      "detail": "HTTP 200, 155 KB in 79 ms"
     },
     {
       "name": "CINCINNATI FINANCIAL CORP filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/20286/000002028626000059/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 54 ms"
+      "detail": "HTTP 200, 1 KB in 146 ms"
     },
     {
       "name": "CINCINNATI FINANCIAL CORP press release",
       "url": "https://www.sec.gov/Archives/edgar/data/20286/000002028626000059/exhibit9913q26.htm",
       "ok": true,
-      "detail": "HTTP 200, 898 KB in 204 ms"
+      "detail": "HTTP 200, 898 KB in 192 ms"
     },
     {
       "name": "RAMBUS INC filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/917273/000119312526431918/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 53 ms"
+      "detail": "HTTP 200, 1 KB in 43 ms"
     },
     {
       "name": "RAMBUS INC press release",
       "url": "https://www.sec.gov/Archives/edgar/data/917273/000119312526431918/rmbs-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 622 KB in 60 ms"
+      "detail": "HTTP 200, 622 KB in 117 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,090 KB in 67 ms"
+      "detail": "HTTP 200, 3,090 KB in 151 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 85 ms"
+      "detail": "HTTP 200, 4,373 KB in 167 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,736 KB in 97 ms"
+      "detail": "HTTP 200, 2,736 KB in 62 ms"
     },
     {
       "name": "CINCINNATI FINANCIAL CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000020286.json",
       "ok": true,
-      "detail": "HTTP 200, 4,197 KB in 56 ms"
+      "detail": "HTTP 200, 4,197 KB in 107 ms"
     },
     {
       "name": "RAMBUS INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000917273.json",
       "ok": true,
-      "detail": "HTTP 200, 3,332 KB in 262 ms"
+      "detail": "HTTP 200, 3,332 KB in 541 ms"
     },
     {
       "name": "BYLINE BANCORP, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001702750.json",
       "ok": true,
-      "detail": "HTTP 200, 3,368 KB in 302 ms"
+      "detail": "HTTP 200, 3,368 KB in 446 ms"
     }
   ],
   "files": [
