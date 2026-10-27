@@ -311,5 +311,130 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/9092/000119312526428396/bmi-ex99_pressrelease.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/9092/000119312526428396/0001193125-26-428396-index.htm",
     "saved_at": "2026-10-25T21:51:33+08:00"
+  },
+  {
+    "cik": "20286",
+    "company": "CINCINNATI FINANCIAL CORP",
+    "accession": "0000020286-26-000059",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 3047,
+        "unit": "USD millions",
+        "quote": "Total revenues | 3,047 | 3,726 | 10,184 | 9,540"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 459,
+        "unit": "USD millions",
+        "quote": "Net Income | $ | 459 | $ | 1,122 | $ | 1,988 | $ | 1,717"
+      },
+      "diluted_eps": {
+        "value": 2.96,
+        "unit": "USD per share",
+        "quote": "Net income — diluted | 2.96 | 7.11 | 12.75 | 10.88"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says the 90.9% combined ratio reflects pricing segmentation and diversified growth, although catastrophe losses rose by 7.0 points.",
+        "quote": "While catastrophe losses grew by 7.0 points compared with last year’s third quarter – moving closer to historical averages for the third quarter – our overall combined ratio of 90.9% reflects our continued efforts in pricing segmentation"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says nine-month non-GAAP operating income rose 38% to $997 million.",
+        "quote": "On a nine-month basis we achieved healthy non-GAAP operating income, increasing that measure 38% to $997 million."
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "The CEO says the nine-month combined ratio of 95.8% is within the long-term target of 92% to 98%.",
+        "quote": "With three-quarters of the year behind us, our 95.8% combined ratio is comfortably within our long-term target of 92% to 98%."
+      },
+      {
+        "id": "M4",
+        "topic": "revenue",
+        "claim": "The CEO says property casualty net written premiums grew 4% in the first nine months of 2026.",
+        "quote": "Total property casualty net written premiums grew 4% through the first nine months of 2026, reflecting average renewal price increases for each of our property casualty insurance segments"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO calls the quarter a nice example of the company's initiatives, but notes higher catastrophe losses and a competitive market."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/20286-0000020286-26-000059.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/20286/000002028626000059/exhibit9913q26.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/20286/000002028626000059/0000020286-26-000059-index.htm",
+    "saved_at": "2026-10-27T09:44:51+08:00"
+  },
+  {
+    "cik": "917273",
+    "company": "RAMBUS INC",
+    "accession": "0001193125-26-431918",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 218.289,
+        "unit": "USD millions",
+        "quote": "Total revenue | 218,289 | 178,513 | 605,863 | 517,386"
+      },
+      "operating_income": {
+        "value": 83.652,
+        "unit": "USD millions",
+        "quote": "Operating income | 83,652 | 63,255 | 218,141 | 189,392"
+      },
+      "net_income": {
+        "value": 74.565,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 74,565 | $ | 48,377 | $ | 202,028 | $ | 166,615"
+      },
+      "diluted_eps": {
+        "value": 0.69,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.69 | $ | 0.44 | $ | 1.84 | $ | 1.53"
+      }
+    },
+    "guidance": {
+      "text": "Rambus expects fourth-quarter 2026 revenue of between $227 million and $233 million.",
+      "quote": "For the fourth quarter of 2026, the Company expects revenue to be between $227 million and $233 million."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says quarterly revenue and earnings were records and exceeded guidance.",
+        "quote": "Rambus delivered record quarterly revenue and earnings that exceeded our guidance, with strong customer demand driving record product revenue and record cash from operations"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO expects an even stronger performance in the fourth quarter.",
+        "quote": "we expect an even stronger performance in Q4 and are well positioned to deliver long-term profitable growth and value for our stockholders."
+      },
+      {
+        "id": "M3",
+        "topic": "revenue",
+        "claim": "The release says revenue of $218.3 million was above the guidance range of $210 million to $216 million.",
+        "quote": "GAAP revenue for the quarter was $218.3 million, which exceeded the Company's guidance range of $210 million to $216 million."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO describes record revenue, earnings and cash from operations, and expects an even stronger fourth quarter."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/917273-0001193125-26-431918.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/917273/000119312526431918/rmbs-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/917273/000119312526431918/0001193125-26-431918-index.htm",
+    "saved_at": "2026-10-27T09:44:51+08:00"
   }
 ]
