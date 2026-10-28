@@ -2319,5 +2319,213 @@
     "filing_found": false,
     "recheck": true,
     "assessed_at": "2026-10-28T06:37:54+08:00"
+  },
+  {
+    "accession": "0001193125-26-428935",
+    "cik": "1702750",
+    "company": "BYLINE BANCORP, INC.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left revenue empty. The release gives a non-GAAP total revenue of 121,008 thousand, for which the SEC holds no quarterly figure."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left operating income empty; a bank reports no operating income, and the release gives none."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The quote holds 41,786 thousand (41.786 million), but the SEC's filed figures could not be read today (data.sec.gov answered 403)."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The quote holds 0.94, but the SEC's filed figures could not be read today (data.sec.gov answered 403)."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "Both quotes are in the release and hold their numbers (net income 41,786 thousand, EPS 0.94). The 10-Q check is still to come."
+      },
+      "S2": {
+        "score": 4,
+        "reason": "Net income and EPS are there. The release gives total revenue of 121,008 thousand, which the watcher left empty; a bank has no operating income, so that gap is not a fault."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable before 8:30 AM, but revenue must be read from the release by hand and no figure can be checked against a 10-Q yet."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "41.786 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "diluted_eps": {
+        "extracted": "0.94 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Tested on the release's tables, as the SEC figures could not be read: net income 41,786 thousand v 40,181 last quarter and 37,200 a year ago; EPS 0.94 v 0.90 and 0.82. A record over all history and the 20 million returned cannot be tested."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Tested on the release's tables: net interest income 103,676 thousand v 100,836 last quarter and 99,890 a year ago; net interest margin 4.33% v 4.28% last quarter, up five basis points."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "Tested on the release's text and tables: deposits rose 168.3 million, 2.1%, or 8.5% annualised; average cost of deposits 1.95% v 1.92% last quarter, up three basis points."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "The release's tables show net income up from 40,181 and 37,200 thousand to 41,786, EPS from 0.90 and 0.82 to 0.94, and net interest income and margin both up on the quarter."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 41.786,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 0.94,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says the bank delivered record earnings and returned more than $20 million of capital to stockholders.",
+        "quote": "We delivered record earnings and returned more than $20 million of capital to stockholders through share repurchases and a 16.7% increase in our common dividend to $0.14 per share during the third quarter.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The President says net interest income was a record $103.7 million and the net interest margin widened five basis points to 4.33%.",
+        "quote": "The third quarter produced record net interest income of $103.7 million and expanded our net interest margin by five basis points to 4.33% in a quarter when funding costs rose across the industry.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The President says deposits grew at an 8.5% annualised rate while the cost of deposits rose three basis points.",
+        "quote": "Deposits grew at an 8.5% annualized rate while our cost of deposits rose three basis points.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "Management speaks of record earnings and record net interest income, and of a strong capital position."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-10-29T06:38:08+08:00"
   }
 ]
