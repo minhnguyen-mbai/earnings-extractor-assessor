@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-28T08:29:19+08:00",
+  "fetched_at": "2026-10-28T08:42:42+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,103 +16,103 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-27",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 54 ms"
+      "detail": "HTTP 200, 60 KB in 524 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-27&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 16 ms"
+      "detail": "HTTP 200, 60 KB in 266 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-27&from=200",
       "ok": true,
-      "detail": "HTTP 200, 30 KB in 17 ms"
+      "detail": "HTTP 200, 30 KB in 289 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 71 ms"
+      "detail": "HTTP 200, 148 KB in 57 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 21 ms"
+      "detail": "HTTP 200, 156 KB in 39 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 155 KB in 16 ms"
+      "detail": "HTTP 200, 155 KB in 37 ms"
     },
     {
       "name": "ACME UNITED CORP filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/2098/000119312526432999/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 93 ms"
+      "detail": "HTTP 200, 1 KB in 75 ms"
     },
     {
       "name": "ACME UNITED CORP press release",
       "url": "https://www.sec.gov/Archives/edgar/data/2098/000119312526432999/acu-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 333 KB in 57 ms"
+      "detail": "HTTP 200, 333 KB in 68 ms"
     },
     {
       "name": "BrightSpire Capital, Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1717547/000171754726000072/index.json",
       "ok": true,
-      "detail": "HTTP 200, 6 KB in 64 ms"
+      "detail": "HTTP 200, 6 KB in 38 ms"
     },
     {
       "name": "BrightSpire Capital, Inc. filing index page",
       "url": "https://www.sec.gov/Archives/edgar/data/1717547/000171754726000072/0001717547-26-000072-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 25 KB in 169 ms"
+      "detail": "HTTP 200, 25 KB in 73 ms"
     },
     {
       "name": "BrightSpire Capital, Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1717547/000171754726000072/brspq326earningsrelease1.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 63 ms"
+      "detail": "HTTP 200, 10 KB in 77 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,090 KB in 56 ms"
+      "detail": "HTTP 200, 3,090 KB in 63 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 22 ms"
+      "detail": "HTTP 200, 4,373 KB in 57 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,736 KB in 33 ms"
+      "detail": "HTTP 200, 2,736 KB in 51 ms"
     },
     {
       "name": "ACME UNITED CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000002098.json",
       "ok": true,
-      "detail": "HTTP 200, 2,454 KB in 216 ms"
+      "detail": "HTTP 200, 2,454 KB in 667 ms"
     },
     {
       "name": "BrightSpire Capital, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001717547.json",
       "ok": true,
-      "detail": "HTTP 200, 2,370 KB in 75 ms"
+      "detail": "HTTP 200, 2,370 KB in 76 ms"
     },
     {
       "name": "BYLINE BANCORP, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001702750.json",
       "ok": true,
-      "detail": "HTTP 200, 3,368 KB in 80 ms"
+      "detail": "HTTP 200, 3,368 KB in 790 ms"
     }
   ],
   "files": [
