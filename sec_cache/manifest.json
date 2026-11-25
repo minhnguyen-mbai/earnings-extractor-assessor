@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-25T12:08:37+08:00",
+  "fetched_at": "2026-11-25T12:31:48+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -9,166 +9,172 @@
     "note": "The last radar run was more than 14 days ago, so the radar looked back 14 days only."
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 25,
-  "answered": 25,
+  "requests": 26,
+  "answered": 26,
   "sources": [
     {
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 66 ms"
+      "detail": "HTTP 200, 60 KB in 296 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 31 ms"
+      "detail": "HTTP 200, 60 KB in 914 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 32 ms"
+      "detail": "HTTP 200, 60 KB in 1196 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=300",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 31 ms"
+      "detail": "HTTP 200, 60 KB in 860 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=400",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 35 ms"
+      "detail": "HTTP 200, 59 KB in 1041 ms"
     },
     {
       "name": "Earnings radar, page 6",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=500",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 32 ms"
+      "detail": "HTTP 200, 60 KB in 1629 ms"
     },
     {
       "name": "Earnings radar, page 7",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=600",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 30 ms"
+      "detail": "HTTP 200, 60 KB in 801 ms"
     },
     {
       "name": "Earnings radar, page 8",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=700",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 36 ms"
+      "detail": "HTTP 200, 60 KB in 1262 ms"
     },
     {
       "name": "Earnings radar, page 9",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=800",
       "ok": true,
-      "detail": "HTTP 200, 45 KB in 34 ms"
+      "detail": "HTTP 200, 45 KB in 578 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 68 ms"
+      "detail": "HTTP 200, 149 KB in 87 ms"
     },
     {
       "name": "Alphabet filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 65 ms"
+      "detail": "HTTP 200, 1 KB in 88 ms"
     },
     {
       "name": "Alphabet press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
       "ok": true,
-      "detail": "HTTP 200, 361 KB in 61 ms"
+      "detail": "HTTP 200, 361 KB in 143 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 158 KB in 36 ms"
+      "detail": "HTTP 200, 158 KB in 15 ms"
     },
     {
       "name": "Amazon filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 44 ms"
+      "detail": "HTTP 200, 1 KB in 64 ms"
     },
     {
       "name": "Amazon press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 657 KB in 61 ms"
+      "detail": "HTTP 200, 657 KB in 123 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 40 ms"
+      "detail": "HTTP 200, 154 KB in 14 ms"
     },
     {
-      "name": "Lumexa Imaging Holdings, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/2071288/000119312526455427/index.json",
+      "name": "Terrestrial Energy Inc. /DE/ filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/2019804/000201980426000033/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 220 ms"
+      "detail": "HTTP 200, 1 KB in 81 ms"
     },
     {
-      "name": "Lumexa Imaging Holdings, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/2071288/000119312526455427/d101681dex991.htm",
+      "name": "Terrestrial Energy Inc. /DE/ press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/2019804/000201980426000033/tmb-ex99d1.htm",
       "ok": true,
-      "detail": "HTTP 200, 226 KB in 296 ms"
+      "detail": "HTTP 200, 694 KB in 108 ms"
     },
     {
-      "name": "Kura Oncology, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1422143/000119312526455416/index.json",
+      "name": "York Space Systems Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/2086587/000162828026073422/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 87 ms"
+      "detail": "HTTP 200, 1 KB in 76 ms"
     },
     {
-      "name": "Kura Oncology, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1422143/000119312526455416/kura-ex99_1.htm",
+      "name": "York Space Systems Inc. filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/2086587/000162828026073422/0001628280-26-073422-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 242 KB in 107 ms"
+      "detail": "HTTP 200, 9 KB in 110 ms"
+    },
+    {
+      "name": "York Space Systems Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/2086587/000162828026073422/pressreleaseq32026.htm",
+      "ok": true,
+      "detail": "HTTP 200, 303 KB in 304 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 56 ms"
+      "detail": "HTTP 200, 3,175 KB in 49 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 59 ms"
+      "detail": "HTTP 200, 4,447 KB in 71 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 56 ms"
+      "detail": "HTTP 200, 2,745 KB in 95 ms"
     },
     {
-      "name": "Lumexa Imaging Holdings, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002071288.json",
+      "name": "Terrestrial Energy Inc. /DE/ company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002019804.json",
       "ok": true,
-      "detail": "HTTP 200, 145 KB in 114 ms"
+      "detail": "HTTP 200, 356 KB in 95 ms"
     },
     {
-      "name": "Kura Oncology, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001422143.json",
+      "name": "York Space Systems Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002086587.json",
       "ok": true,
-      "detail": "HTTP 200, 1,583 KB in 222 ms"
+      "detail": "HTTP 200, 198 KB in 118 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001422143.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0002071288.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0002019804.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0002086587.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -183,11 +189,12 @@
     "efts.sec.gov_search-index_from800.json",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_amzn-20260930xex991.htm",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_index.json",
-    "www.sec.gov_Archives_edgar_data_1422143_000119312526455416_index.json",
-    "www.sec.gov_Archives_edgar_data_1422143_000119312526455416_kura-ex99_1.htm",
     "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_googexhibit991q32026.htm",
     "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_index.json",
-    "www.sec.gov_Archives_edgar_data_2071288_000119312526455427_d101681dex991.htm",
-    "www.sec.gov_Archives_edgar_data_2071288_000119312526455427_index.json"
+    "www.sec.gov_Archives_edgar_data_2019804_000201980426000033_index.json",
+    "www.sec.gov_Archives_edgar_data_2019804_000201980426000033_tmb-ex99d1.htm",
+    "www.sec.gov_Archives_edgar_data_2086587_000162828026073422_0001628280-26-073422-index.htm",
+    "www.sec.gov_Archives_edgar_data_2086587_000162828026073422_index.json",
+    "www.sec.gov_Archives_edgar_data_2086587_000162828026073422_pressreleaseq32026.htm"
   ]
 }
